@@ -81,6 +81,7 @@ export const lightboxStyles = ({
     font-size: 120%;
     padding: 10px;
     margin: 0;
+    float: left;
   }
   .__react_modal_image__header {
     position: absolute;
