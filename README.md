@@ -1,3 +1,1 @@
-<h3>
-  React Modal Image
-</h3>
+# GEMS - React Modal Image
